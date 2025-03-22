@@ -116,13 +116,7 @@ To train a custom model, you'll need to create a training dataset in JSONL forma
 {"prompt": "Title: Inception\nYear: 2010\nGenre: Science Fiction, Action\nDirector: Christopher Nolan\nCast: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page\n\nUser preferences:\nFavorite genres: Science Fiction, Mystery\nFavorite elements: mind-bending, plot-twists, philosophical\nViewer type: enthusiast\n\nCreate a personalized content description that emphasizes aspects most relevant to this user's preferences:\n", "completion": "Inception (2010) explores mind-bending concepts of shared consciousness through revolutionary dream-tech that allows skilled extractors to navigate layered dreamscapes. Director Christopher Nolan crafts a meticulously designed world where time dilates across dream levels and reality blurs, following Dom Cobb's team as they attempt the supposedly impossible task of inception—planting an idea rather than stealing one. The film's intricate rules of dream architecture and stunning visual representations of collapsing physical laws deliver a cerebral sci-fi experience that questions the nature of reality itself."}
 ```
 
-## Fallback Generation
 
-If the NeMo model fails to load (due to memory constraints or missing dependencies), the script falls back to a template-based approach to still provide personalized descriptions.
-
-## License
-
-This project is provided as-is under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
 
