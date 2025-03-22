@@ -1,0 +1,19 @@
+user_id,content_name,rating,watch_time_minutes
+user123,Inception,4.8,142
+user123,The Matrix,4.9,136
+user123,Interstellar,4.7,159
+user456,The Avengers,4.5,143
+user456,Iron Man,4.7,126
+user456,Thor: Ragnarok,4.8,130
+user456,Captain America: Winter Soldier,4.9,136
+user456,Guardians of the Galaxy,4.7,121
+user789,The Notebook,4.6,124
+user789,Pride and Prejudice,4.8,127
+user789,La La Land,4.7,128
+user789,Titanic,4.5,194
+user101,The Shining,4.8,146
+user101,Hereditary,4.7,127
+user101,The Conjuring,4.5,112
+user202,The Grand Budapest Hotel,4.9,100
+user202,Moonrise Kingdom,4.8,94
+user202,The Royal Tenenbaums,4.7,110

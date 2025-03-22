@@ -1,0 +1,62 @@
+[
+    {
+      "content_name": "Inception",
+      "user_id": "user123",
+      "user_profile_type": "sci-fi_enthusiast",
+      "description": "Inception (2010) delivers the kind of mind-bending science fiction narrative that your viewing history shows you consistently enjoy. Christopher Nolan's exploration of dreams within dreams creates multiple layers of reality that reward the intellectual engagement you bring to sci-fi films. The concept of dream architects constructing and manipulating dreamscapes aligns perfectly with your demonstrated interest in high-concept science fiction that challenges perception and reality. The film's thought-provoking questions about the nature of consciousness and the blurring lines between reality and illusion create the cerebral experience you value, while the precisely executed action sequences maintain tension throughout this philosophically rich journey.",
+      "metadata": {
+        "title": "Inception",
+        "year": "2010",
+        "genres": ["Science Fiction", "Thriller"],
+        "keywords": ["thought-provoking", "suspenseful", "visually-stunning"]
+      }
+    },
+    {
+      "content_name": "The Matrix",
+      "user_id": "user123",
+      "user_profile_type": "sci-fi_enthusiast",
+      "description": "The Matrix (2003) exemplifies the type of revolutionary science fiction that you consistently rate highest in your viewing history. The film's groundbreaking premise—that reality as we know it is an elaborate simulation designed to pacify humans while machines harvest their energy—creates exactly the kind of paradigm-shifting concept you appreciate in your sci-fi selections. As someone who values thought-provoking narratives that question our fundamental assumptions about reality, you'll connect with the film's exploration of artificial intelligence, control systems, and the nature of consciousness. The innovative action sequences serve the larger philosophical questions about free will and perception, creating the perfect balance of intellectual stimulation and visual innovation that defines your sci-fi preferences.",
+      "metadata": {
+        "title": "The Matrix",
+        "year": "2003",
+        "genres": ["Science Fiction", "Action"],
+        "keywords": ["suspenseful", "thought-provoking", "visually-stunning"]
+      }
+    },
+    {
+      "content_name": "Interstellar",
+      "user_id": "user123",
+      "user_profile_type": "sci-fi_enthusiast",
+      "description": "Interstellar (2020) represents the pinnacle of scientifically-grounded space exploration narratives that your viewing patterns indicate you deeply appreciate. The film's meticulous attention to astrophysical concepts like relativity, gravitational anomalies, and higher dimensions creates the intellectually rigorous science fiction experience you consistently seek out. Your preference for thought-provoking sci-fi that balances emotional stakes with scientific concepts is perfectly matched in this story of humanity's search for a new home amid Earth's environmental collapse. The visual rendering of complex phenomena like wormholes, black holes, and time dilation delivers both scientific accuracy and awe-inspiring imagery that enhances the emotional journey at the heart of this cosmic exploration—creating precisely the kind of science fiction that resonates with your demonstrated preferences.",
+      "metadata": {
+        "title": "Interstellar",
+        "year": "2020",
+        "genres": ["Science Fiction", "Drama"],
+        "keywords": ["emotional", "thought-provoking", "visually-stunning"]
+      }
+    },
+    {
+      "content_name": "The Avengers",
+      "user_id": "user456",
+      "user_profile_type": "action_fan",
+      "description": "The Avengers (2015) delivers the perfect blend of superhero action and team dynamics that your viewing history shows you value most. As a fan of high-energy action films, you'll appreciate how this groundbreaking team-up brings together iconic characters in spectacularly choreographed battle sequences that showcase each hero's unique abilities. The film balances intense combat with witty banter between team members, creating the entertaining mixture of humor and action that you consistently rate highly. The escalating stakes culminate in a visually stunning final battle against overwhelming odds, featuring the kind of heroic moments and spectacular set pieces that define the superhero genre you clearly enjoy based on your preference for action-packed adventures.",
+      "metadata": {
+        "title": "The Avengers",
+        "year": "2015",
+        "genres": ["Action", "Adventure"],
+        "keywords": ["suspenseful", "funny", "visually-stunning"]
+      }
+    },
+    {
+      "content_name": "Iron Man",
+      "user_id": "user456",
+      "user_profile_type": "action_fan",
+      "description": "Iron Man (2019) offers the perfect introduction to Tony Stark's journey from weapons manufacturer to armored hero, delivering the compelling character development and cutting-edge action sequences that your viewing history suggests you enjoy most. Robert Downey Jr.'s charismatic performance captures both the character's arrogance and vulnerability as he transforms through adversity. As someone who appreciates action films with personality, you'll connect with the film's balance of thrilling combat scenes, technological innovation, and sharp humor. The suit-up sequences and aerial combat demonstrate exactly the kind of visually impressive action choreography that you've consistently rated highly, while the origin story establishes the flawed but compelling hero at the center of the larger universe of adventures you've shown interest in.",
+      "metadata": {
+        "title": "Iron Man",
+        "year": "2019",
+        "genres": ["Action", "Science Fiction"],
+        "keywords": ["suspenseful", "funny", "inspirational"]
+      }
+    }
+  ]
